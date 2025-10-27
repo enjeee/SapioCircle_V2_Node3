@@ -1,0 +1,39 @@
+# -----------------------------------------------------------------------------
+# STM32CubeIDE / Eclipse Project Files
+# -----------------------------------------------------------------------------
+
+# Binary Output
+*.elf
+*.hex
+*.bin
+*.map
+*.a
+*.o
+
+# Build Directories
+Debug/
+Release/
+build/
+**/*.build/
+
+# Eclipse/STM32CubeIDE Metadata
+.metadata
+.project
+.cproject
+.settings/
+.launch
+.log
+*.markers
+*.history
+*.snap
+*.p2
+*.recommenders
+.mxproject
+_input.xml
+.classpath
+.sw4stm32
+.vscode/
+
+# -----------------------------------------------------------------------------
+# Dependencies & Libraries (keep these versioned unless you explicitly want to ignore them)
+# -----------------------------------------------------------------------------
