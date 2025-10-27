@@ -1,0 +1,7 @@
+../Core/Src/system_config.c:44:6:SYS_DATA_Init	4	static
+../Core/Src/system_config.c:67:7:READ_pH_SENSOR	24	static
+../Core/Src/system_config.c:89:7:READ_WATER_TEMP	24	static
+../Core/Src/system_config.c:107:7:READ_TANK_TEMP	24	static
+../Core/Src/system_config.c:127:7:READ_OIL_LEVEL	24	static
+../Core/Src/system_config.c:146:6:SYS_DATA_UpdateAnalog	8	static
+../Core/Src/system_config.c:160:6:SYS_DATA_UpdateDigital	8	static

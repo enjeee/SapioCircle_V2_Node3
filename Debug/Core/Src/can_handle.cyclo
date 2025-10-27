@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	4
+../Core/Src/can_handle.c:30:6:HAL_CAN_RxFifo0MsgPendingCallback	6
+../Core/Src/can_handle.c:68:6:CAN_SendJsonMessage	8
+../Core/Src/can_handle.c:113:6:CAN_Send	8
